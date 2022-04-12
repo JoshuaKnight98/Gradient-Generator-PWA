@@ -1,0 +1,15 @@
+html,
+body{
+    background-color: beige;
+    text-align: center;
+    font-size: 18px;
+}
+
+.area{
+    width: 100%;
+    height: 200px;
+}
+
+.value-css{
+    width: 95%;
+}
